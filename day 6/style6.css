@@ -1,0 +1,28 @@
+h1,p {
+     color: hotpink;
+     font-size: 50px;
+    }
+
+#highlightpara {
+    color: darkorchid;
+    background: rgb(188, 188, 233);
+}
+
+.text {
+   font-size: 30px;
+   background: rgb(201, 27, 163)
+}
+
+li a {
+text-decoration: none;
+display: block;
+text-align: center;
+padding: 10px 10px;
+}
+li{
+    float: left;
+    list-style: none;
+}
+li a:hover {
+background-color: darksalmon;
+}

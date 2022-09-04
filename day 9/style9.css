@@ -1,0 +1,20 @@
+.navbar{
+    background-color: chartreuse;
+    overflow: hidden;
+    }
+    .navitem{
+    float: left;
+    list-style: none;
+    }
+    .navlink{
+        text-decoration: none;
+        display: block;
+        text-align: center;
+        padding: 10px;
+        }
+
+        li a:hover {
+        background-color: darksalmon;
+        }
+        
+    figure{text-align: center;}
